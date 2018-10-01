@@ -1,0 +1,7 @@
+git config user.name "GuillermoMorales"
+git config user.password "asasahsha"
+git init
+git add .
+git commit -m "jajaja"
+git remote add origin link
+git push origin master
